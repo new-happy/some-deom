@@ -1,0 +1,26 @@
+.shopping{
+  display: flex;
+  flex-direction: column;
+}
+.shopping-cart img{
+  width:250px;
+  height: 250px;
+}
+.shopping-cart{
+  display: flex;
+ justify-content: space-between;
+}
+.cart-button{
+  display: flex;
+  justify-content: space-between;
+}
+.cart-button button{
+  width: 250px;
+  height: 50px;
+  line-height: 50px;
+  background-color: #ff9797;
+  text-align: center;
+  margin-top: 10px;
+  color: #fff;
+
+}
